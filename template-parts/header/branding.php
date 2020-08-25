@@ -15,11 +15,11 @@ namespace WP_Rig\WP_Rig;
 	<?php
 	if ( is_front_page() && is_home() ) {
 		?>
-		<h1 class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></h1>
+		<!-- <h1 class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></h1> -->
 		<?php
 	} else {
 		?>
-		<p class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></p>
+		<a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><img scr="assets/images/MLA-Logo-Outlined.svg" alt="Mark Landeryou Artisan Logo" title="Mark Landeryou Artisan Logo"></a>
 		<?php
 	}
 	?>
