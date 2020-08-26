@@ -20,7 +20,7 @@ namespace WP_Rig\WP_Rig;
 	<?php
 	} else {
 	?>
-		<p class="site-title"><a href="<?php echo esc_url(home_url('/')); ?>" rel="home"><img scr="assets/images/MLA-Logo-Outlined.svg" alt="Mark Landeryou Artisan Logo" title="Mark Landeryou Artisan Logo"></a></p>
+		<p class="site-title"><a href="<?php echo esc_url(home_url('/')); ?>" rel="home"><img scr="assets/images/MLA-Logo-Outlined.svg" alt="Mark Landeryou Artisan Logo" title="Mark Landeryou Artisan"></a></p>
 	<?php
 	}
 	?>

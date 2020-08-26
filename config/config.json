@@ -8,9 +8,9 @@
   "dev": {
     "browserSync": {
       "live": true,
-      "proxyURL": "http://wprigdev.local/:8888",
+      "proxyURL": "https://wprigdev.local/:8888",
       "bypassPort": "8181",
-      "https": false
+      "https": true
     },
     "styles": {
       "stage": 3,
