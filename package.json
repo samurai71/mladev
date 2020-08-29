@@ -14,11 +14,11 @@
     "url": "https://github.com/wprig/wprig/issues"
   },
   "devDependencies": {
-    "@babel/core": "^7.11.1",
+    "@babel/core": "^7.11.4",
     "@babel/preset-env": "^7.11.0",
     "@babel/register": "^7.10.5",
     "@wordpress/eslint-plugin": "^2.4.0",
-    "ajv": "^6.12.3",
+    "ajv": "^6.12.4",
     "ansi-colors": "^4.1.1",
     "autoprefixer": "^9.8.6",
     "babel-jest": "^24.9.0",
@@ -44,7 +44,7 @@
     "gulp-eslint": "^6.0.0",
     "gulp-if": "^2.0.2",
     "gulp-imagemin": "^6.2.0",
-    "gulp-load-plugins": "^2.0.3",
+    "gulp-load-plugins": "^2.0.4",
     "gulp-newer": "^1.4.0",
     "gulp-notify": "^3.2.0",
     "gulp-phpcs": "^3.1.0",
