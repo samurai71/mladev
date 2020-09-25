@@ -35,7 +35,7 @@ msgstr ""
 msgid "Skip to content"
 msgstr ""
 
-#: news-page-template.php:3
+#: news-page-template.php:3, shop-page-template.php:3
 msgid "Custom Page Template"
 msgstr ""
 
@@ -201,7 +201,7 @@ msgid "Add widgets here."
 msgstr ""
 
 #. translators: %s: stylesheet handle
-#: inc/Styles/Component.php:235
+#: inc/Styles/Component.php:245
 msgid "Invalid theme stylesheet handle: %s"
 msgstr ""
 
